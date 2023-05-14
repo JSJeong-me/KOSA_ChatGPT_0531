@@ -1,0 +1,2 @@
+# JSJeong-me-KOSA_ChatGPT_0531
+KOSA ChatGPT 강의 2023-05-31
