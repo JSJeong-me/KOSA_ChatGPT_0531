@@ -39,7 +39,6 @@
 ###  https://chat.openai.com/auth/login
   
 ```
-```
   - Dalle-2 :
 ```
 ### https://openai.com/dall-e-2/
