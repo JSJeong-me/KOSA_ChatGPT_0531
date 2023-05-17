@@ -5,8 +5,8 @@
 
 
 
-### JSJeong-me-KOSA_ChatGPT_0531
-### KOSA ChatGPT 강의 2023-05-31
+
+### KOSA ChatGPT 강의 2023-05-17
 
 '''
   ### Google Translate  https://translate.google.com/?hl=ko
