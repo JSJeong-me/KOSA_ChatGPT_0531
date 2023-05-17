@@ -40,6 +40,11 @@
   
 ```
 ```
+  - Dalle-2 :
+```
+### https://openai.com/dall-e-2/
+
+```
   
 # 관련 논문
 
