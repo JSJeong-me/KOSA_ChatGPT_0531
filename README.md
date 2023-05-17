@@ -11,12 +11,12 @@
 
 ```
   - OpenAI Platform :
-```
-    https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
+```  
+  https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
 
 ```
   - Google Translate :  
-```
+```  
    https://translate.google.com/?hl=ko
    
 ```
@@ -38,6 +38,8 @@
 ```
   https://chat.openai.com/auth/login
   
+```
+```
   
 # 관련 논문
 
