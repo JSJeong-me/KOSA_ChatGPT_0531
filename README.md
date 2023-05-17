@@ -11,24 +11,34 @@
 
 ```
   - OpenAI Platform :
+```
     https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
-```
-```
-  - Google Translate  https://translate.google.com/?hl=ko
-```
-```
-  - Google Tacotron   https://google.github.io/tacotron/
-```
-```
-  - Google Vision API https://cloud.google.com/vision?hl=ko
-```
-```
-  - Visual ChatGPT    https://stablediffusionweb.com/Visual-ChatGPT
-```
-```
-  - OpenAI ChatGPT  https://chat.openai.com/auth/login
-```
 
+```
+  - Google Translate :  
+```
+   https://translate.google.com/?hl=ko
+   
+```
+  - Google Tacotron :  
+```
+  https://google.github.io/tacotron/
+  
+```
+  - Google Vision API :  
+```
+  https://cloud.google.com/vision?hl=ko
+  
+```
+  - Visual ChatGPT :   
+```
+   https://stablediffusionweb.com/Visual-ChatGPT
+```
+  - OpenAI ChatGPT :  
+```
+  https://chat.openai.com/auth/login
+  
+  
 # 관련 논문
 
 ```
