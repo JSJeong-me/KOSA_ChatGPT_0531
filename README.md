@@ -10,7 +10,8 @@
 # KOSA ChatGPT 강의 2023-05-17
 
 ```
-  - OpenAI Platform    https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
+  - OpenAI Platform :
+    https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
 ```
 ```
   - Google Translate  https://translate.google.com/?hl=ko
