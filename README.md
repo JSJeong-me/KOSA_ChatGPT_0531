@@ -42,12 +42,10 @@
 ```
   - Dalle-2 :
 ```
-###[     https://openai.com/dall-e-2/!
-[image](https://github.com/JSJeong-me/KOSA_ChatGPT_0531/assets/54794815/55e194f8-d284-408c-85a1-76556e6597fc)
-](https://openai.com/dall-e-2/
-)
+### https://openai.com/dall-e-2/
 
-```
+
+
 ```
 
 # 관련 논문
