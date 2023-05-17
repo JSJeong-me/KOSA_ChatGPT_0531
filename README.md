@@ -24,13 +24,13 @@
 ```
 ```
 
-  ### GANs 2014         https://han.gl/UvwYck
+  - GANs 2014         https://han.gl/UvwYck
 
-  ### Foundation Model  https://han.gl/BZHMid
+  - Foundation Model  https://han.gl/BZHMid
 
-  ### Ateenstion is all you need  https://han.gl/ZiYILX
+  - Ateenstion is all you need  https://han.gl/ZiYILX
 
-  ### GPT 4.0 Tutorial  https://han.gl/YxdoTd
+  - GPT 4.0 Tutorial  https://han.gl/YxdoTd
 
 ```
 
