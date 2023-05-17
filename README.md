@@ -22,6 +22,9 @@
   - OpenAI ChatGPT  https://chat.openai.com/auth/login
 
 ```
+
+### 관련 논문
+
 ```
 
   - GANs 2014         https://han.gl/UvwYck
