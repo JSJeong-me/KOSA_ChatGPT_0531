@@ -12,27 +12,27 @@
 ```
   - OpenAI Platform :
 ```  
-  https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
+##  https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
 
 ```
   - Google Translate :  
 ```  
-   https://translate.google.com/?hl=ko
+##   https://translate.google.com/?hl=ko
    
 ```
   - Google Tacotron :  
 ```
-  https://google.github.io/tacotron/
+##  https://google.github.io/tacotron/
   
 ```
   - Google Vision API :  
 ```
-  https://cloud.google.com/vision?hl=ko
+##  https://cloud.google.com/vision?hl=ko
   
 ```
   - Visual ChatGPT :   
 ```
-   https://stablediffusionweb.com/Visual-ChatGPT
+##   https://stablediffusionweb.com/Visual-ChatGPT
 ```
   - OpenAI ChatGPT :  
 ```
