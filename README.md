@@ -11,7 +11,7 @@
 
 ```
   - OpenAI Platform :
-
+```
     https://platform.openai.com/playground/p/default-micro-horror?mode=complete&model=text-davinci-003
 
 ```
