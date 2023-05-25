@@ -1,4 +1,4 @@
-# 강의 교안 - [https://han.gl/rdXGTs] (https://han.gl/vezDTX)
+# 강의 교안 - [[https://han.gl/rdXGTs]
 
 # 수업 WorkSheet - https://han.gl/HWRxoY
 
