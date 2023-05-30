@@ -7,7 +7,7 @@
 
 
 
-# KOSA ChatGPT 강의 2023-05-26
+# KOSA ChatGPT 강의 2023-05-31
 
 ```
   - OpenAI Platform :
