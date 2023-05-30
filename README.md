@@ -50,6 +50,16 @@
 # 관련 논문
 
 ```
+  - Improving Language Understanding by Generative Pre-Training
+```
+### https://han.gl/VCRApn
+
+```
+  - A Survey of Large Language Models
+```
+### https://han.gl/fQLVwb
+
+```
   - GANs 2014         
 ```
 ### https://han.gl/UvwYck
